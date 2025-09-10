@@ -20,7 +20,7 @@ A powerful Flutter plugin for **camera capture** and **gallery selection** with 
 
 | Camera Preview | Draggable Gallery |
 |----------------|-----------------|
-|<img src="assets/ezgif.com-resize.gif" alt="Demo Image" width="200" height="350">| <img src="assets/image.jpg" alt="Demo Image" width="200" height="350">|
+|<img src="assets/Screenshot_2.png" alt="Demo Image" width="200" height="350">| <img src="assets/Screenshot_1.png" alt="Demo Image" width="200" height="350">|
 
 ---
 

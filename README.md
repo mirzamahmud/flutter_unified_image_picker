@@ -18,6 +18,8 @@ A powerful Flutter plugin for **camera capture** and **gallery selection** with 
 
 ## 📷 Screenshots
 
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/a28936ad-91d5-41e2-8b77-6c06e0fae0ad)
+
 ---
 
 ## Getting Started

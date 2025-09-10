@@ -1,4 +1,4 @@
-package com.example.flutter_unified_image_picker_example
+package com.mirza.flutter_unified_image_picker_example
 
 import io.flutter.embedding.android.FlutterActivity
 

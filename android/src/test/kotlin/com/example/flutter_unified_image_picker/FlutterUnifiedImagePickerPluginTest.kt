@@ -1,4 +1,4 @@
-package com.example.flutter_unified_image_picker
+package com.mirza.flutter_unified_image_picker
 
 import io.flutter.plugin.common.MethodCall
 import io.flutter.plugin.common.MethodChannel

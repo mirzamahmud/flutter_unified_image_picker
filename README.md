@@ -18,10 +18,6 @@ A powerful Flutter plugin for **camera capture** and **gallery selection** with 
 
 ## 📷 Screenshots
 
-| Camera Preview | Draggable Gallery |
-|----------------|-----------------|
-| ![ezgif com-1](https://github.com/user-attachments/assets/d9b0e41c-7307-4af6-9e59-0c8635497efd) | ![ezgif com-2](https://github.com/user-attachments/assets/77dc9dd5-78da-40c6-a726-5971aca0755a) |
-
 ---
 
 ## Getting Started

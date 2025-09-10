@@ -24,10 +24,6 @@ A powerful Flutter plugin for **camera capture** and **gallery selection** with 
 
 ---
 
-## Video demo
-
----
-
 ## Getting Started
 
 ### 💉 Installation
